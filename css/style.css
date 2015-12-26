@@ -5,23 +5,12 @@ background-color:#DDDDDD;}
 p {
 margin:0.2em 0 1.2em 0; padding:0.3em;}
 
-h1 {
-padding:0; margin:0;font-size:250%; font-weight:normal; font-style:italic; 
-color:#8CD749; font-family:"Trebuchet MS", verdana, arial, sans-serif;}
-
 h2 {
 background-color:#DDDDDD; color:#3B4471; font-size:100%; font-weight:normal; margin:0.2em; padding:0; 
 font-style:italic; font-family:"Trebuchet MS", verdana, arial, sans-serif;}
 
 div {
 margin:0; padding:0; display:block;}
-
-a:link, a:visited {
-color:#8CD749; text-decoration:underline;}
-a:hover {
-color:#3B4471; text-decoration:none;}
-a:active {
-color:#8CD749; text-decoration:underline;}
 
 .container {
 background-color:#FFFFFF; margin:0 auto 0 auto; padding:0; width:760px;}
@@ -36,9 +25,6 @@ background-color:#FFFFFF; margin:0 auto 0 auto; padding:0; width:760px;}
   width: 648px;
 }
 
-.titleblock p {
-text-indent:4em; color:#3B4471;}
-
 .rightcontainer {
 float:right; clear:both; margin:1em 0 0 0; padding:0;}
 
@@ -47,8 +33,6 @@ margin:0.5em; padding:0.3em; border:1px solid #999999; text-align:center;}
 
 .rightcontainer h2 {
 text-align:left; padding:0 0 0 1.5em;}
-
-.linkbox a {display:block;}
 
 .content {
 clear:left; text-align:left; margin:1.2em 15.5em 0 0; padding:1em 1ex 1em 1.5ex;}
